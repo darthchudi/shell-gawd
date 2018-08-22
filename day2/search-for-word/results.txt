@@ -1,0 +1,4 @@
+contents/data.txt:chudi was here 
+contents/data_1.txt:chudi was here 
+Chudi occured contents/data.txt:1
+contents/data_1.txt:1 times
